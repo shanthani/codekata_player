@@ -1,4 +1,5 @@
 #shan
+r=int(input())
 n=input()
 d={}
 a=[]
