@@ -5,7 +5,6 @@ a=[]
 d=0
 for i in range(0,n):
       a.append(input())
-print(a)
 for j in a:
     c=0
     for k in j:
